@@ -1,0 +1,1 @@
+# Static-Structural-Analysis-of-Spur-Gear-using-Ansys
